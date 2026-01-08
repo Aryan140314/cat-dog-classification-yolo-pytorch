@@ -9,10 +9,6 @@ venv/
 # Dataset
 data/
 
-# Model weights
-Models/
-*.pth
-
 # Outputs
 evaluation_outputs/
 Graphs/
